@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="654088af-25be-4760-a1d2-09a79628f2c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Grades.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cwk/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cwk/ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cwk/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Software Engineering Project/Itinerary.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Software Engineering Project/project-squad16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/explode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/explode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/CW2/2811_cw1-master_release/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4/ex_4.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4_2/ex_4_2.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4_2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4_3/ex_4_3.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User Interfaces/Lab 3/ex_4_3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms/coursework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms/coursework/coursework.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms/coursework/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/CavePlusPlus.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/CavePlusPlus.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/CavePlusPlus.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/CavePlusPlus.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/bomb.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/bomb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/cave.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/cave.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/location.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/location.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/place.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/place.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/place.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/place.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/throw.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/throw.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/tom.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/2811_cw0-master_release/tom.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/bomb.h.0A7F09811F2F9C32.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/bomb.h.0A7F09811F2F9C32.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/cave.cpp.88F189C942EE84A7.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/cave.cpp.88F189C942EE84A7.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/cave.h.AAF7700AE072055A.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/cave.h.AAF7700AE072055A.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/command.h.277436D40F563356.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/command.h.277436D40F563356.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/location.cpp.5F6F03107247A56E.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/location.cpp.5F6F03107247A56E.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/move.cpp.F8ABC478391987E2.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/move.cpp.F8ABC478391987E2.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/place.cpp.0D92308B87F19451.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/place.cpp.0D92308B87F19451.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/place.h.BBB5CE18AE30DFFE.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/place.h.BBB5CE18AE30DFFE.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/test.cpp.8C791BFF12A83513.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/test.cpp.8C791BFF12A83513.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/throw.cpp.ADB0FB7324A600DE.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/throw.cpp.ADB0FB7324A600DE.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/tom.cpp.CC23595F4BE1923C.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/tom.cpp.CC23595F4BE1923C.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qtc_clangd/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/Makefile.Debug" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/Makefile.Debug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/Makefile.Release" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/Makefile.Release" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/CavePlusPlus.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/CavePlusPlus.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/cave.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/cave.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/location.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/location.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/place.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/place.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/throw.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/throw.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/tom.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../User Interfaces/CW1/build-CavePlusPlus-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/tom.o" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NTK8lyd5j3XwEsWqr1cWndWyFs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="654088af-25be-4760-a1d2-09a79628f2c9" name="Changes" comment="" />
+      <created>1679682476744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679682476744</updated>
+      <workItem from="1683738361682" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
